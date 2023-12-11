@@ -5,18 +5,3 @@ soy fisioterapeuta, y estoy aprendiendo de desarrollo web
 estoy casado con vanessa, desde el 20 de mayo de 2023
 
 espero este 2024 poder aprender mas y poder aplicarlo todo
-
-<<<<<<< Updated upstream
-
-
-
-
-
-
-esto es un experimento 
-=======
-esto es un experimento
-
-esto es la rama main
-
->>>>>>> Stashed changes
